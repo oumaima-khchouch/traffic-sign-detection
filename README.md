@@ -20,6 +20,10 @@ Le dataset utilisé est disponible ici :
 2. Importer son fichier `kaggle.json` quand demandé  
 3. Exécuter les cellules pour télécharger les données et entraîner le modèle  
 
+les images détectées sont dans le repertoire yolov5/runs/detect/exp
+
+
+
 ---
 
 *Projet réalisé par Oumaima Khchouch*
